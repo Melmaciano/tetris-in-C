@@ -3,7 +3,7 @@ I adjusted it to work in C and linux using ncurses, I also made some extra funct
 
 
 gameplay:
-left arroe and right arrow to move
-up arrow to rotate
-down arrow to accelerate
-x to drop the piece
+Left arrow and right arrow to move.
+Up arrow to rotate.
+Down arrow to accelerate.
+X to drop the piece.
